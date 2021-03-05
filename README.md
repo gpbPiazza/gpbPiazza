@@ -1,6 +1,6 @@
 # Hello! I'm Gabriel Piazza 👋
 
-- ### I am a curious  developer and I believe we don't have failures in our lives, or we win, or we learn.
+- ### I am a curious developer and I always learning!.
 
 ## I 'm focusing on:
 - 🌱 I’m currently reading books of classics authors of science computer as Kent Beck, Martin Fowler and Robert Cecil Martin.

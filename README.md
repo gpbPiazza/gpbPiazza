@@ -4,7 +4,7 @@
 
 ## I 'm focusing on:
 - 🌱 I’m currently reading books of classics authors of science computer as Kent Beck, Martin Fowler and Robert Cecil Martin.
-- 🔭 I’m currently working with and learning Javascript | TypeScript | NodeJS | React | React Native.
+- 🔭 I’m currently working with and learning .Net core | Angular
 
 
 ## You can reach me any time!

@@ -1,7 +1,5 @@
 # Hello! I'm Gabriel Piazza 👋
 
-## I am a curious developer and I always learning!.
-
 ## I 'm focusing on:
 - 🌱 I’m currently reading books of classics authors of science computer as Kent Beck, Martin Fowler, Robert Cecil Martin and others...
 - 🔭 I’m currently working with and studying Go | TypeScript | DevOps | CD/CI | Design Patterns 
